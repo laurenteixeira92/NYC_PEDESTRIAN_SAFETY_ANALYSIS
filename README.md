@@ -29,3 +29,6 @@ In the final part of my project, I wanted to identify and visualize New York's m
 
 These maps look cool, but they're not necessarily helpful as a planning tool. You can't tell which intersections are the worst just by looking at them! So I made a less pretty but much more informative interactive map with New York's worst intersection by number of collisions (99th percentile); there's also a layer for individual pedestrian fatalities. And for the nosy, I charted New York's 10 worst intersections:
 
+![image_desc](Graphics/worst_intersections.jpeg)
+
+![image_desc](Graphics/nyc_interactive.html)
