@@ -7,3 +7,4 @@ For this project I made use of the Motor Vehicle Collisions Dataset available th
 
 # New York's Most Dangerous Neighborhoods for Pedestrians?
 ![image desc](Graphics/injuries_choropleth.jpeg)
+sdfs
