@@ -16,6 +16,11 @@ In New York, the most commonly used administrative unit is Neighborhood Tract As
 
 # New York's Worst Intersections
 
+The overhwelming majority of serious pedestrian collisions in New York take place at intersections - according to my calculations, about 81% of them. 
+
 ![image_desc](Graphics/every_collision_new.jpeg)
 
-The overhwelming majority of serious pedestrian collisions in New York take place at intersections - according to my calculations, about 81% of them. 
+In the final part of my project, I wanted to identify and visualize New York's most dangerous intersections by number of collisions. There are a lot of intersections in New York, though, so I decided to map by borough initially. 
+
+![image_desc](Graphics/Manhattan.jpeg)
+![image_desc](Graphics/Brooklyn.jpeg)
