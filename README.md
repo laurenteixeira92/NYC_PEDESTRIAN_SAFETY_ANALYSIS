@@ -24,3 +24,5 @@ In the final part of my project, I wanted to identify and visualize New York's m
 
 ![image_desc](Graphics/Manhattan.jpeg)
 ![image_desc](Graphics/Brooklyn.jpeg)
+![image_desc](Graphics/Bronx.jpeg)
+![image_desc](Graphics/Queens.jpeg)
