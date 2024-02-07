@@ -6,4 +6,4 @@ This repo contains code and graphics from a personal project of mine visualizing
 For this project I made use of the Motor Vehicle Collisions Dataset available through NYCOpenData. While comprehensive and updated daily, the collisions dataset still has some data quality problems; the first notebook in this repo is devoted to geocoding those records without given latlongs. The second notebook takes the geocoded dataset and visualizes the spatially distribution of serious pedestrian incidents, both generally and by Neighborhood Tabulation Area (NTA). In the third notebook I turn my focus to intersections, at which it turns out about 80% of serious pedestrian incidents take place. New York's most dangerous intersections are identified and mapped; the final product is an interactive map letting the viewer explore those intersections in the 99th percentile of pedestrian incidents.
 
 # New York's Most Dangerous Neighborhoods for Pedestrians?
-![image desc](Graphics/injuries_choropleth.jpeg)
+
