@@ -31,6 +31,5 @@ These maps look cool, but they're not necessarily helpful as a planning tool. Yo
 
 ![image_desc](Graphics/worst_intersections.jpeg)
 
-![image_desc](Graphics/nyc_interactive.html)
 
 <iframe src='nyc_interactive.html' width = '500' height = '500'></iframe>
