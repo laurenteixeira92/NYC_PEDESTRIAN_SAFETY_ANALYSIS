@@ -1,1 +1,1 @@
-<iframe src='nyc_interactive.html' width = '500' height = '500'></iframe>
+<iframe src='nyc_interactive.html' width = '1000' height = '1000'></iframe>
